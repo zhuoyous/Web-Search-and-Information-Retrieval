@@ -6,7 +6,7 @@ This repository contains four homework assignments from the CSCI572 course, cove
 
 ## 📁 Folder Overview
 
-### `hw1` — **Bing Search Result Scraper (Python)**
+### `hw1/` — **Bing Search Result Scraper (Python)**
 Simulates a search engine client by sending queries to Bing and scraping the top results.
 
 **Files:**
@@ -19,7 +19,7 @@ Simulates a search engine client by sending queries to Bing and scraping the top
 
 ---
 
-### `hw2` — **Web Crawler for Fox News (Java + Python)**
+### `hw2/` — **Web Crawler for Fox News (Java + Python)**
 Builds a focused web crawler using the Crawler4j framework to crawl `www.foxnews.com`.
 
 **Files:**
@@ -34,7 +34,7 @@ Builds a focused web crawler using the Crawler4j framework to crawl `www.foxnews
 
 ---
 
-### `hw3` — **Unigram and Bigram Indexing (Java)**
+### `hw3/` — **Unigram and Bigram Indexing (Java)**
 Implements search engine back-end components by creating unigram and bigram inverted indexes.
 
 **Files:**
@@ -49,7 +49,7 @@ Implements search engine back-end components by creating unigram and bigram inve
 
 ---
 
-### `hw4` — **MapReduce Word Count (Conceptual)**
+### `hw4/` — **MapReduce Word Count (Conceptual)**
 A readme explaining a Hadoop-style MapReduce word count job.
 
 **Files:**
