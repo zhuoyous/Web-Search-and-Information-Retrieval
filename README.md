@@ -4,7 +4,7 @@ This repository contains four homework assignments from the CSCI572 course, cove
 
 ---
 
-## 📁 Folder Overview
+##  Folder Overview
 
 ### `hw1/` — **Bing Search Result Scraper (Python)**
 Simulates a search engine client by sending queries to Bing and scraping the top results.
@@ -59,7 +59,7 @@ A readme explaining a Hadoop-style MapReduce word count job.
 
 ---
 
-## ✅ Technologies Used
+##  Technologies Used
 
 - **Python**: Web scraping, data storage, data analysis
 - **Java**: Crawler4j for web crawling; custom indexing logic
@@ -69,6 +69,6 @@ A readme explaining a Hadoop-style MapReduce word count job.
 
 ---
 
-## 💡 Summary
+##  Summary
 
 Each assignment simulates real-world tasks in information retrieval, combining software development with data science and distributed computing concepts.
